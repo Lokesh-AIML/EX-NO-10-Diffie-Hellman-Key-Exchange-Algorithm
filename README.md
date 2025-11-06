@@ -64,7 +64,8 @@ return 0;
 
 ## Output:
 
-![Uploading image.png…]()
+<img width="599" height="629" alt="image" src="https://github.com/user-attachments/assets/6cf23637-74e3-4454-a68a-c09c5929eb1b" />
+
 
 
 ## Result:
